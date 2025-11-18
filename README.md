@@ -1,5 +1,7 @@
 We only implemented for C-level. 
 
+Link for the dashboard: https://astega1.github.io/mlfs-book/air-quality/ 
+
 # Changes we made in notebook 1:
 
 ### Adding lag values

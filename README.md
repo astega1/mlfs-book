@@ -1,5 +1,7 @@
 We only implemented for C-level. 
 
+Branch in git is "final", exist as default though. 
+
 Link for the dashboard: https://astega1.github.io/mlfs-book/air-quality/ 
 
 # Changes we made in notebook 1:
